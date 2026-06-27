@@ -13,38 +13,22 @@ A sleek, responsive, and highly interactive personal portfolio website showcasin
 
 ## 📸 Visual Previews
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <b>1) Main Page / Hero Section</b><br/>
-      <img src="image_7cc23c.png" alt="Main Page" width="100%"/>
-    </td>
-    <td width="50%" align="center">
-      <b>2) About Page</b><br/>
-      <img src="image_7cc589.png" alt="About Page" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <b>3) Technical Skills Matrix</b><br/>
-      <img src="image_7cc8a9.png" alt="Skills Page" width="100%"/>
-    </td>
-    <td width="50%" align="center">
-      <b>4) Engineering Projects Showcase</b><br/>
-      <img src="image_7cc8e4.png" alt="Project Page" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <b>5) Education & Academic Timeline</b><br/>
-      <img src="image_7cc92a.png" alt="Education Page" width="100%"/>
-    </td>
-    <td width="50%" align="center">
-      <b>6) Contact Section</b><br/>
-      <img src="image_7cc9a5.png" alt="Contact Page" width="100%"/>
-    </td>
-  </tr>
-</table>
+Home Page -
+<img width="947" height="443" alt="image" src="https://github.com/user-attachments/assets/5ca34f79-2be9-4a10-8ca3-b43039c6abdc" />
+
+About Me Page - 
+<img width="948" height="440" alt="image" src="https://github.com/user-attachments/assets/36434aab-5cb0-4ac1-a26a-b56ffebe4334" />
+
+Project Page - 
+<img width="949" height="439" alt="image" src="https://github.com/user-attachments/assets/e8cde9a8-d9cd-4b04-adeb-4c0a4903f90c" />
+
+<img width="948" height="439" alt="image" src="https://github.com/user-attachments/assets/198231ae-601b-4312-80e3-bcf216f0ffb0" />
+
+Eduaction Page - 
+<img width="949" height="437" alt="image" src="https://github.com/user-attachments/assets/fef94818-179a-4931-9845-005bbfd7adac" />
+
+Contact Page - 
+<img width="949" height="440" alt="image" src="https://github.com/user-attachments/assets/a98d5601-e83e-4004-bae5-a930568be966" />
 
 ---
 
@@ -78,3 +62,9 @@ The project repository is consolidated from standard modular front-end layers:
    ```bash
    git clone [https://github.com/pruthviraj45213/Portfolieo-Project-.git](https://github.com/pruthviraj45213/Portfolieo-Project-.git)
    cd Portfolieo-Project-
+
+---
+
+## 🎯 Conclusion 
+
+This portfolio serves as a centralized hub establishing my engineering footprint at the intersection of modern full-stack architecture and robust artificial intelligence applications. By integrating modular front-end components, glassmorphism visual trends, and high-performance DOM logic, this web platform successfully encapsulates complex backend schema pipelines and deep-learning diagnostic vision models under a single clean, scannable user experience. It bridges the gap between pure engineering design and impactful AI scalability
